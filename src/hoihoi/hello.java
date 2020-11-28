@@ -10,6 +10,8 @@ public class hello {
 			String string = args[i];
 
 		}
+
+		int c = 2;
 	}
 
 }
